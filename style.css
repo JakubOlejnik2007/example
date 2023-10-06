@@ -2,7 +2,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-video, audio {
+video, audio, iframe {
     display: block;
     margin: 20px auto;
 }
